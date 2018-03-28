@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 六藝綱目
-#+DATE: 2018-03-28 13:09:59.738254
+#+DATE: 2018-03-28 13:09:59.797974
 #+PROPERTY: ID KR1j0088
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1j0088_WYG_000-1a>¶
 欽定四庫全書　　　　　經部十¶
